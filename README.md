@@ -7,7 +7,7 @@
   </a>
   <h3 align="center"> Employee Attendance Management System</h3>
   <p align="center">
-    <a href=""C:\Users\Harine\Downloads\demo.gif"">View Demo</a>
+    <a href="demo.gif">View Demo</a>
     ·
     
   </p>
