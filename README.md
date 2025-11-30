@@ -5,13 +5,11 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="pages/images/company-logo.png" alt="Logo" width="100" height="100">
   </a>
-  <h3 align="center">C597: Employee Attendance Management System</h3>
+  <h3 align="center"> Employee Attendance Management System</h3>
   <p align="center">
     <a href="https://github.com/Dee-17/Employee-Attendance-Management">View Demo</a>
     ·
-    <a href="https://github.com/Dee-17/Employee-Attendance-Management/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Dee-17/Employee-Attendance-Management/issues">Request Feature</a>
+    
   </p>
 </div>
 
